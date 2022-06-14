@@ -1,5 +1,5 @@
 # labeller.ir
-LABELLER- پلتفرم برچسب گذاری فارسی
+<p dir="rtl" align='right'>LABELLER- پلتفرم برچسب گذاری فارسی</p>
 ## coming soon 
 www.labeller.ir
 ## ویژگی ها
