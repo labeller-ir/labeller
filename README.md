@@ -23,5 +23,5 @@
 - **ساده و آسانی استفاده**
 
 <p align="center">
-<img src="Screenshot 2022-05-25 at 13-33-15 LABELLER-پلتفرم برچسب گذاری فارسی.png" alt="Build Status">
+<img src="labelling.gif" alt="Build Status">
 </p>
